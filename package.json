@@ -44,6 +44,7 @@
     "packages/logger-plugin",
     "packages/devtools-plugin",
     "packages/storage-plugin",
+    "packages/async-storage-plugin",
     "packages/websocket-plugin",
     "packages/form-plugin",
     "packages/router-plugin",
